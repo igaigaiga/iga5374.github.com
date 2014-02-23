@@ -8,3 +8,5 @@ label,sublabel,description,styles,bgcolor
 ガラス・陶磁器類,,,img/glass.svg,#681fa4
 古紙類,ひもでしばる,,img/usedpaper.svg,#d2691e
 ペットボトル,コンテナ,,img/pet.svg,#90bb00
+TEST1,ひもでしばる,,img/usedpaper.svg,#d2691e
+TEST2,コンテナ,,img/pet.svg,#90bb00

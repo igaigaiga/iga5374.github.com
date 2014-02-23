@@ -86,7 +86,7 @@ var TrashModel = function(_lable, _cell) {
       result_text += "第" + this.dayCell[j].charAt(1) + this.dayCell[j].charAt(0) + "曜日 ";
     } else {
       // 不定期回収の場合（YYYYMMDD指定）
-      result_text = "不定期 ";
+      result_text = " ";
       this.regularFlg = 0;  // 定期回収フラグオフ
     }
   }
